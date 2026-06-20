@@ -2,6 +2,8 @@
 
 This repository contains an adaptation for this seminar of  [this paper](https://link.springer.com/chapter/10.1007/978-3-032-04558-4_30)'s by Font et. al. Their authors propose a framework for uncertainty quantification based on nearest neighbors across layers as a post-hoc method to yield explainations in regards to Neural Nets' produced decisions.
 
+In this seminar we will only work with the [MNIST](https://en.wikipedia.org/wiki/MNIST_database) dataset for handwritten digits recognition.
+
 ## Using this repository
 
 After cloning, create a Python (It's preferable to use version 3.12) virtual environment and activate it.
@@ -24,3 +26,5 @@ Now, you're ready to go.
 From all the files provided, the most important ones to focus on for this seminar are the Fexigo library `fexigo.py` and the `fexigo_mnist_demo.ipynb` notebook. 
 
 The former implements all the necessary code for the explaination protocol described whereas the later serves as a demo notebook for this seminar.
+
+In order to save precious time, we provide you with a pretrained model, stored in `models/mnist_cnn.keras`.

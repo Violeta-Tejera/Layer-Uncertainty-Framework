@@ -21,6 +21,6 @@ Now, you're ready to go.
 
 ### Relevant files
 
-From all the files provided, the most important ones to focus on for this seminar are the Fexigo library $\texttt{fexigo.py}$ and the $\texttt{fexigo\_mnist\_demo.ipynb}$ notebook.
+From all the files provided, the most important ones to focus on for this seminar are the Fexigo library `fexigo.py` and the `fexigo_mnist_demo.ipynb` notebook. 
 
 The former implements all the necessary code for the explaination protocol described whereas the later serves as a demo notebook for this seminar.
